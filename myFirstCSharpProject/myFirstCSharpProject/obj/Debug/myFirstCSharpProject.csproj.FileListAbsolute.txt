@@ -1,0 +1,10 @@
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\bin\Debug\myFirstCSharpProject.exe.config
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\bin\Debug\myFirstCSharpProject.exe
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\bin\Debug\myFirstCSharpProject.pdb
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\obj\Debug\myFirstCSharpProject.csprojAssemblyReference.cache
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\obj\Debug\myFirstCSharpProject.Properties.Resources.resources
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\obj\Debug\myFirstCSharpProject.csproj.GenerateResource.cache
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\obj\Debug\myFirstCSharpProject.csproj.CoreCompileInputs.cache
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\obj\Debug\myFirstCSharpProject.exe
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\obj\Debug\myFirstCSharpProject.pdb
+D:\class_study\Csharp_study_HyoSeong\myFirstCSharpProject\myFirstCSharpProject\obj\Debug\myFirstCSharpProject.Form1.resources
