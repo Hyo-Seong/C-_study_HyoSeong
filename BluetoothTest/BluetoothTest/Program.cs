@@ -12,21 +12,27 @@ namespace BluetoothTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Connection...1");
             SerialPort serialPort = new SerialPort();
             serialPort.BaudRate = 9600;
             serialPort.PortName = "COM8"; // 송신
+            Console.WriteLine("Connection...2");
             serialPort.Open();
-            int counter = 0;
+            Console.WriteLine("Connected!");
+            serialPort.Write("Connected!");
+            String response = null;
             while (serialPort.IsOpen)
             {
+                response = null;
                 // WRITE THE INCOMING BUFFER TO CONSOLE
                 while (serialPort.BytesToRead > 0)
                 {
-                    Console.Write(Convert.ToChar(serialPort.ReadChar()));
+                    
+                    response += Convert.ToChar(serialPort.ReadChar());
                 }
                 // SEND
-                serialPort.Write("aa");
-                Console.WriteLine("PC counter: " + (counter++));
+                Console.WriteLine(response);
+                serialPort.Write("ddaa + " + response);
                 Thread.Sleep(500);
             }
         }
